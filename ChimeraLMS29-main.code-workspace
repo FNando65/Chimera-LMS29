@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/LMS/ChimeraLMS-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
